@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #333333;
+	font-size: 14px;
+}
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+#sec-rs .fab{
+	color: #fff;
+}
+#sec-rs .fab:hover{
+	color: #333;
+}
+#sec-great-template{
+	background-image: url(../img/bg-hero.jpg);
+}
+#sec-great-template h2{
+	font-weight: 700;
+}
+#sec-great-template span{
+	color: #e96a57;
+}
+.cuadroservicios{
+	background-color: #F2F2F2;
+	border: solid 1px #E6E6E6;
+	text-align: center;
+	padding: 20px 10px;
+}
+.cuadroservicios h3{
+	font-weight: 700;
+}
+.cuadroservicios span{
+	color: #e96a57;
+}
+.circulo{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+}
+.circulo.azul{
+	background-color: #37749D;
+}
+.circulo.verde{
+	background-color: #709A62;
+}
+.circulo.naranja{
+	background-color: #e96a57;
+}
+.circulo.amarillo{
+	background-color: #DABC3A;
+}
+#site-map{
+	background-color: #222222;
+	color: #fff;
+	padding: 30px 0px;
+}
+footer{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0px 10px;
+}
+#What-we-do{
+	padding: 30px 0px;
+}
